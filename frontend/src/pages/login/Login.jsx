@@ -2,7 +2,7 @@ import React, { useContext, useRef } from "react";
 import "./Login.css";
 import { loginCall } from "../../actionCalls";
 //AuthContextはユーザー状態が入ってる(user, isFetching, error, dispatch)
-import { AuthContext } from "../../state/AuthContext";
+import { AuthContext } from "../../state/AuthContext.js";
 
 export default function Login() {
   const email = useRef();
