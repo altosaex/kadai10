@@ -1,5 +1,5 @@
 import { Children, createContext, useEffect, useReducer } from "react";
-import AuthReducer from "./AuthReducer";
+import AuthReducer from "./AuthReducer.js";
 
 //最初のユーザー状態の定義
 const initialState = {
