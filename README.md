@@ -6,6 +6,8 @@ https://ssmdssns.web.app/
 下記アプリはデプロイが実現できず、reactとfirebaseで１から作り直しました。
 まだupdate途中ですが、ひとまず完成
 
+https://github.com/altosaex/kadai11
+
 
 
 # kadai9_卒業制作第二弾
